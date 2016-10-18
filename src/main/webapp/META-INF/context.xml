@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Context>
-    <Resource name="jdbc/iTechArt(new version)"
+    <Resource name="jdbc/iTechArt"
               auth="Container"
               type="javax.sql.DataSource"
               maxTotal="50"
               maxIdle="30"
               maxWaitMillis="10000"
-              username="root" password="85262655"
+              username="Nipo" password="123456789"
               driverClassName="com.mysql.jdbc.Driver"
-              url="jdbc:mysql://localhost:3306/iTechArt(new version)?characterEncoding=UTF-8"
+              url="jdbc:mysql://localhost:3306/iTechArt?characterEncoding=UTF-8"
               removeAbandonedOnMaintenance="true"
               removeAbandonedTimeout="30"
               logAbandoned="true"/>
